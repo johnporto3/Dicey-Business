@@ -1,8 +1,14 @@
 #dice-container {
+    position: absolute;
+    color: black
+};
 
-}
+.Die{
+    width: 100px;
+    height: 100px;
+    border: 2px solid orange;
+    vertical-align: middle;
 
-.square{
-    width: 250px;
-    height: 250px;
+
+    position: relative;
 }
